@@ -1,5 +1,8 @@
 {
-  "name": "apex-component-library",
+  "name": "@benjamin-buck/apex-component-library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/benjamin-buck"
+  },
   "version": "0.0.1",
   "description": "A sleek and modern react component library",
   "scripts": {
